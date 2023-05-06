@@ -1,4 +1,4 @@
-# MAURYAN_NEXRAD
+# ALU 32-BIT 
 An Arithmetic Logic-Unit (ALU) is an integral circuital component of a
 computer processor (CPU). It is used to perform various arithmetic such
 as addition, subtraction, multiplication, division and bitwise logic
